@@ -1,0 +1,17 @@
+{
+    "name": "piron/galactus",
+    "description": "Jogo MMORPG inspirado em meteorus",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marcelo Pironatto",
+            "email": "pironatto@gmail.com"
+        }
+    ],
+    "require": {}
+}
